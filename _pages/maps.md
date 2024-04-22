@@ -1,7 +1,7 @@
 ---
 title: "Maps"
 permalink: /maps/
-layout: posts
+layout: single
 author_profile: false
 ---
 
