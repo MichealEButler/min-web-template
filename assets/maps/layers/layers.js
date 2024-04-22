@@ -1,3 +1,5 @@
+ol.proj.proj4.register(proj4);
+ol.proj.get("EPSG:27700").setExtent([272156.585654, 772737.590222, 342594.302423, 814241.967242]);
 var wms_layers = [];
 
 
@@ -20,14 +22,14 @@ var lyr_DEM_1 = new ol.layer.Image({
                             source: new ol.source.ImageStatic({
                                url: "./layers/DEM_1.png",
     attributions: ' ',
-                                projection: 'EPSG:3857',
+                                projection: 'EPSG:27700',
                                 alwaysInRange: true,
-                                imageExtent: [-495530.346777, 7703554.704588, -288338.519184, 7831727.440007]
+                                imageExtent: [252500.000000, 761550.000000, 364000.000000, 828850.000000]
                             })
                         });
 var format_Rivers_2 = new ol.format.GeoJSON();
 var features_Rivers_2 = format_Rivers_2.readFeatures(json_Rivers_2, 
-            {dataProjection: 'EPSG:4326', featureProjection: 'EPSG:3857'});
+            {dataProjection: 'EPSG:4326', featureProjection: 'EPSG:27700'});
 var jsonSource_Rivers_2 = new ol.source.Vector({
     attributions: ' ',
 });
@@ -48,9 +50,9 @@ var lyr_HPA2_3 = new ol.layer.Image({
                             source: new ol.source.ImageStatic({
                                url: "./layers/HPA2_3.png",
     attributions: ' ',
-                                projection: 'EPSG:3857',
+                                projection: 'EPSG:27700',
                                 alwaysInRange: true,
-                                imageExtent: [-428743.160791, 7733762.471408, -372591.004949, 7786441.018531]
+                                imageExtent: [288000.000000, 777000.000000, 318000.000000, 805000.000000]
                             })
                         });
 var lyr_HPA1_4 = new ol.layer.Image({
@@ -61,14 +63,14 @@ var lyr_HPA1_4 = new ol.layer.Image({
                             source: new ol.source.ImageStatic({
                                url: "./layers/HPA1_4.png",
     attributions: ' ',
-                                projection: 'EPSG:3857',
+                                projection: 'EPSG:27700',
                                 alwaysInRange: true,
-                                imageExtent: [-453466.561710, 7720297.487609, -341348.635958, 7814682.849570]
+                                imageExtent: [275000.000000, 770000.000000, 335000.000000, 820000.000000]
                             })
                         });
 var format_sites_5 = new ol.format.GeoJSON();
 var features_sites_5 = format_sites_5.readFeatures(json_sites_5, 
-            {dataProjection: 'EPSG:4326', featureProjection: 'EPSG:3857'});
+            {dataProjection: 'EPSG:4326', featureProjection: 'EPSG:27700'});
 var jsonSource_sites_5 = new ol.source.Vector({
     attributions: ' ',
 });
@@ -89,7 +91,7 @@ lyr_sites_5.set('fieldAliases', {'site': 'site', 'easting': 'easting', 'northing
 lyr_Rivers_2.set('fieldImages', {'name1': 'TextEdit', 'identifier': 'TextEdit', 'startNode': 'TextEdit', 'endNode': 'TextEdit', 'form': 'TextEdit', 'flow': 'TextEdit', 'fictitious': 'TextEdit', 'length': 'Range', 'name2': 'TextEdit', });
 lyr_sites_5.set('fieldImages', {'site': 'TextEdit', 'easting': 'TextEdit', 'northing': 'TextEdit', 'NGR': 'TextEdit', 'visible': 'TextEdit', 'letter lab': 'TextEdit', 'map_no': 'TextEdit', });
 lyr_Rivers_2.set('fieldLabels', {'name1': 'no label', 'identifier': 'no label', 'startNode': 'no label', 'endNode': 'no label', 'form': 'no label', 'flow': 'no label', 'fictitious': 'no label', 'length': 'no label', 'name2': 'no label', });
-lyr_sites_5.set('fieldLabels', {'site': 'no label', 'easting': 'no label', 'northing': 'no label', 'NGR': 'no label', 'visible': 'no label', 'letter lab': 'no label', 'map_no': 'no label', });
+lyr_sites_5.set('fieldLabels', {'site': 'inline label - always visible', 'easting': 'no label', 'northing': 'no label', 'NGR': 'no label', 'visible': 'no label', 'letter lab': 'no label', 'map_no': 'no label', });
 lyr_sites_5.on('precompose', function(evt) {
     evt.context.globalCompositeOperation = 'normal';
 });

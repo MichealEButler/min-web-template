@@ -1,6 +1,6 @@
 ---
-title: "Documentation"
-permalink: /documentation/
+title: "Downloads"
+permalink: /downloads/
 layout: archive
 author_profile: true
 ---
