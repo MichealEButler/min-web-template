@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "This websites stores all legacy content from the IRC Coalesce funded 'Looking Up' project."
+  location         : "Dublin, Ireland"
   email            :
   links:
     - label: "Email"
