@@ -17,7 +17,7 @@ The Looking Up project is an IRC funded Coalesce project which utilises knowlege
     <img width = "150" height = "150" src="/min-web-template/assets/images/graeme.jpg" alt="">
   </div>
   <div>
-    <p style="margin-left: 20%; margin-top 10px;"><b>Professor. Graeme Warren</b><br>Co Principle Investigator<br>University College Dublin</p>
+    <p style="margin-left: 20%; margin-top: 10px;"><b>Professor. Graeme Warren</b><br>Co Principle Investigator<br>University College Dublin</p>
   </div>
 </div>
 
@@ -26,7 +26,7 @@ The Looking Up project is an IRC funded Coalesce project which utilises knowlege
     <img width = "150" height = "150" src="/min-web-template/assets/images/sam.jpg" alt="">
   </div>
   <div>
-    <p style="margin-left: 20%; margin-top 10px;"><b>Dr. Sam Kelley</b><br>Co Principle Investigator<br>University College Dublin</p>
+    <p style="margin-left: 20%; margin-top: 10px;"><b>Dr. Sam Kelley</b><br>Co Principle Investigator<br>University College Dublin</p>
   </div>
 </div>
 
@@ -35,7 +35,7 @@ The Looking Up project is an IRC funded Coalesce project which utilises knowlege
     <img width = "150" height = "150" src="/min-web-template/assets/images/alice.jpg" alt="">
   </div>
   <div>
-    <p style="margin-left: 20%; margin-top 10px;"><b>Dr. Alice Doughty</b><br>Glaciologist<br>University of Maine</p>
+    <p style="margin-left: 20%; margin-top: 10px;"><b>Dr. Alice Doughty</b><br>Glaciologist<br>University of Maine</p>
   </div>
 </div>
 
@@ -44,6 +44,6 @@ The Looking Up project is an IRC funded Coalesce project which utilises knowlege
     <img width = "150" height = "150" src="/min-web-template/assets/images/micheal.jpg" alt="">
   </div>
   <div>
-    <p style="margin-left: 20%; margin-top 10px;"><b>Dr. Micheál Butler</b><br>Research Scientist<br>University College Dublin</p>
+    <p style="margin-left: 20%; margin-top: 10px;"><b>Dr. Micheál Butler</b><br>Research Scientist<br>University College Dublin</p>
   </div>
 </div>
