@@ -8,22 +8,22 @@ header:
 feature_row:
   - image_path: /assets/images/map_viewer_stock_2.jpg
     title: "Map Viewer"
-    excerpt: "Sample text 1 with **markdown** formatting."
+    excerpt: "You will find a number of 'prediction' map layers here, that you can **view**, and **download**."
     url: "https://michealebutler.github.io/min-web-template/maps/"
-    btn_label: "Read More"
+    btn_label: "Open Viewer"
     btn_class: "btn--primary"
   - image_path: /assets/images/documents_stock_2.jpg
     title: "Documentation"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "We have provided a number of resources that describe the tools created as part of the project, including instructions on how to use them"
     url: "https://michealebutler.github.io/min-web-template/documentation/"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
   - image_path: /assets/images/contact_stock_2.jpg
     title: "Contact Us"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "If you require any assisstance or would like to contribute any data to help us refine our models, please get in touch."
     url: "https://michealebutler.github.io/min-web-template/contact/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_label: "Contact Us"
+    btn_class: "btn--success"
 ---
 
 {% include feature_row %}
