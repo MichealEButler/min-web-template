@@ -11,6 +11,12 @@ The Looking Up project is an IRC funded Coalesce project which utilises knowlege
 
 ## The Team
 
+<img align="left" width="100" height="100" src="assets/images/graeme.jpg">
+<img align="left" width="100" height="100" src="assets/images/sam.jpg">
+<img align="left" width="100" height="100" src="assets/images/alice.jpg">
+<img align="left" width="100" height="100" src="assets/images/micheal.jpg">
+
+
 <div class="team">
     <div><img src="assets/images/graeme.jpg" /> Professor. Graeme Warren</div>
     <div><img src="assets/images/sam.jpg" /> Dr. Sam Kelley</div>
