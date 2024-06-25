@@ -13,37 +13,37 @@ The Looking Up project is an IRC funded Coalesce project which utilises knowlege
 ## The Team
 
 <div style="clear: both;">
-  <div style="float: left; margin-right 10%;">
+  <div style="float: left; margin-right 1em; margin-top: 10%;">
     <img width = "150" height = "150" src="/min-web-template/assets/images/graeme.jpg" alt="">
   </div>
   <div>
-    <p><b>Professor. Graeme Warren</b><br>Co Principle Investigator</p>
+    <p style="margin-left 10%"><b>Professor. Graeme Warren</b><br>Co Principle Investigator</p>
   </div>
 </div>
 
 <div style="clear: both;">
-  <div style="float: left; margin-right 20%;">
+  <div style="float: left; margin-right 1em; margin-top: 10%;">
     <img width = "150" height = "150" src="/min-web-template/assets/images/sam.jpg" alt="">
   </div>
   <div>
-    <p style="text-align:right"><b>Dr. Sam Kelley</b><br>Co Principle Investigator</p>
+    <p style="margin-left 20%"><b>Dr. Sam Kelley</b><br>Co Principle Investigator</p>
   </div>
 </div>
 
 <div style="clear: both;">
-  <div style="float: left; margin-right 30%;">
+  <div style="float: left; margin-right 1em; margin-top: 10%;">
     <img width = "150" height = "150" src="/min-web-template/assets/images/alice.jpg" alt="">
   </div>
   <div>
-    <p><b>Dr. Alice Doughty</b><br>Glaciologist</p>
+    <p style="margin-left 30%"><b>Dr. Alice Doughty</b><br>Glaciologist</p>
   </div>
 </div>
 
 <div style="clear: both;">
-  <div style="float: left; margin-right 40%;">
+  <div style="float: left; margin-right 1em; margin-top: 10%;">
     <img width = "150" height = "150" src="/min-web-template/assets/images/micheal.jpg" alt="">
   </div>
   <div>
-    <p><b>Dr. Micheál Butler</b><br>Research Scientist</p>
+    <p style="margin-left 40%"><b>Dr. Micheál Butler</b><br>Research Scientist</p>
   </div>
 </div>
