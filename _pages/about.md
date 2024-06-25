@@ -12,8 +12,8 @@ The Looking Up project is an IRC funded Coalesce project which utilises knowlege
 ## The Team
 
 <div class="team">
-    <div><img width = "100" height = "100" src="/min-web-template/assets/images/graeme.jpg"/> Professor. Graeme Warren</div><br>
-    <div><img width = "100" height = "100" src="/min-web-template/assets/images/sam.jpg" /> Dr. Sam Kelley</div><br>
-    <div><img width = "100" height = "100" src="/min-web-template/assets/images/alice.jpg" /> Dr. Alice Doughty</div><br>
-    <div><img width = "100" height = "100" src="/min-web-template/assets/images/micheal.jpg" /> Dr. Micheál Butler</div>
+    <div><img width = "120" height = "120" src="/min-web-template/assets/images/graeme.jpg"/> Professor. Graeme Warren</div><br>
+    <div><img width = "120" height = "120" src="/min-web-template/assets/images/sam.jpg" /> Dr. Sam Kelley</div><br>
+    <div><img width = "120" height = "120" src="/min-web-template/assets/images/alice.jpg" /> Dr. Alice Doughty</div><br>
+    <div><img width = "120" height = "120" src="/min-web-template/assets/images/micheal.jpg" /> Dr. Micheál Butler</div>
 </div>
