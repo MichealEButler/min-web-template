@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-    overlay_filter: "0.5"
+    overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
     overlay_image: /assets/images/looking_up_web_image_1.jpg
 feature_row:
   - image_path: /assets/images/map_viewer_stock_2.jpg
