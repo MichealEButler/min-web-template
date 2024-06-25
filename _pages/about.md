@@ -13,7 +13,7 @@ The Looking Up project is an IRC funded Coalesce project which utilises knowlege
 ## The Team
 
 <div style="clear: both;">
-  <div style="float: left; margin-right 2em;">
+  <div style="float: left; margin-right 10%;">
     <img width = "150" height = "150" src="/min-web-template/assets/images/graeme.jpg" alt="">
   </div>
   <div>
@@ -22,7 +22,7 @@ The Looking Up project is an IRC funded Coalesce project which utilises knowlege
 </div>
 
 <div style="clear: both;">
-  <div style="float: left; margin-right 2em;">
+  <div style="float: left; margin-right 20%;">
     <img width = "150" height = "150" src="/min-web-template/assets/images/sam.jpg" alt="">
   </div>
   <div>
@@ -31,7 +31,7 @@ The Looking Up project is an IRC funded Coalesce project which utilises knowlege
 </div>
 
 <div style="clear: both;">
-  <div style="float: left; margin-right 2em;">
+  <div style="float: left; margin-right 30%;">
     <img width = "150" height = "150" src="/min-web-template/assets/images/alice.jpg" alt="">
   </div>
   <div>
@@ -40,7 +40,7 @@ The Looking Up project is an IRC funded Coalesce project which utilises knowlege
 </div>
 
 <div style="clear: both;">
-  <div style="float: left; margin-right 2em;">
+  <div style="float: left; margin-right 40%;">
     <img width = "150" height = "150" src="/min-web-template/assets/images/micheal.jpg" alt="">
   </div>
   <div>
