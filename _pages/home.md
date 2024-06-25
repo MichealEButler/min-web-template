@@ -8,13 +8,13 @@ header:
 feature_row:
   - image_path: /assets/images/map_viewer_stock_2.jpg
     title: "Map Viewer"
-    excerpt: "You will find a number of 'prediction' map layers here, that you can **view**, and **download**."
+    excerpt: "You will find a number of 'prediction' map layers here, that you can **view**, **edit**, and **download**."
     url: "https://michealebutler.github.io/min-web-template/maps/"
     btn_label: "Open Viewer"
     btn_class: "btn--primary"
   - image_path: /assets/images/documents_stock_2.jpg
     title: "Documentation"
-    excerpt: "We have provided a number of resources that describe the tools created as part of the project, including instructions on how to use them"
+    excerpt: "We have provided a number of resources that describe the created utilities, including instructions on how to use them"
     url: "https://michealebutler.github.io/min-web-template/documentation/"
     btn_label: "Read More"
     btn_class: "btn--success"
