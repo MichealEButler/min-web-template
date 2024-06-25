@@ -26,7 +26,7 @@ The Looking Up project is an IRC funded Coalesce project which utilises knowlege
     <img width = "150" height = "150" src="/min-web-template/assets/images/sam.jpg" alt="">
   </div>
   <div>
-    <p><b>Dr. Sam Kelley</b><br>Co Principle Investigator</p>
+    <p style="text-align:right"><b>Dr. Sam Kelley</b><br>Co Principle Investigator</p>
   </div>
 </div>
 
