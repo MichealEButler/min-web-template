@@ -10,11 +10,10 @@ author_profile: false
 The Looking Up project is an IRC funded Coalesce project which utilises knowlege about deglacial landscapes to provide new data and methodlogies to indetify and manage early prehistoric archaeological remians in Europe's mountains. This will directly inform policy debats surrounding the conversation of mountain landscapes/ecosystems and managment of montane cultural heritage.
 
 ## The Team
-
-<img align="left" width="100" height="100" src="assets/images/graeme.jpg">
-<img align="left" width="100" height="100" src="assets/images/sam.jpg">
-<img align="left" width="100" height="100" src="assets/images/alice.jpg">
-<img align="left" width="100" height="100" src="assets/images/micheal.jpg">
+<div><img align="left" width="100" height="100" src="assets/images/graeme.jpg"></div>
+<div><img align="left" width="100" height="100" src="assets/images/sam.jpg"></div>
+<div><img align="left" width="100" height="100" src="assets/images/alice.jpg"></div>
+<div><img align="left" width="100" height="100" src="assets/images/micheal.jpg"></div>
 
 
 <div class="team">
