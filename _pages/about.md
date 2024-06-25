@@ -11,22 +11,22 @@ The Looking Up project is an IRC funded Coalesce project which utilises knowlege
 
 ## The Team
 <figure>
-    <a href="/min-web-template/assets/images/graeme.jpg"><img src="/min-web-template/assets/images/graeme.jpg"></a>
+    <a href="/min-web-template/assets/images/graeme.jpg"><img width = "100" height = "100" src="/min-web-template/assets/images/graeme.jpg"></a>
 </figure>
 <figure>
-    <a href="/min-web-template/assets/images/sam.jpg"><img src="/min-web-template/assets/images/sam.jpg"></a>
+    <a href="/min-web-template/assets/images/sam.jpg"><img width = "100" height = "100" src="/min-web-template/assets/images/sam.jpg"></a>
 </figure>
 <figure>
-    <a href="/min-web-template/assets/images/alice.jpg"><img src="/min-web-template/assets/images/alice.jpg"></a>
+    <a href="/min-web-template/assets/images/alice.jpg"><img width = "100" height = "100" src="/min-web-template/assets/images/alice.jpg"></a>
 </figure>
 <figure>
-    <a href="/min-web-template/assets/images/micheal.jpg"><img src="/min-web-template/assets/images/micheal.jpg"></a>
+    <a href="/min-web-template/assets/images/micheal.jpg"><img width = "100" height = "100" src="/min-web-template/assets/images/micheal.jpg"></a>
 </figure>
 
 
 <div class="team">
-    <div><img src="/min-web-templateassets/images/graeme.jpg" /> Professor. Graeme Warren</div>
-    <div><img src="/min-web-templateassets/images/sam.jpg" /> Dr. Sam Kelley</div>
-    <div><img src="/min-web-templateassets/images/alice.jpg" /> Dr. Alice Doughty</div>
-    <div><img src="/min-web-templateassets/images/micheal.jpg" /> Dr. Micheál Butler</div>
+    <div><img width = "100" height = "100" src="/min-web-template/assets/images/graeme.jpg"/> Professor. Graeme Warren</div>
+    <div><img width = "100" height = "100" src="/min-web-template/assets/images/sam.jpg" /> Dr. Sam Kelley</div>
+    <div><img width = "100" height = "100" src="/min-web-template/assets/images/alice.jpg" /> Dr. Alice Doughty</div>
+    <div><img width = "100" height = "100" src="/min-web-template/assets/images/micheal.jpg" /> Dr. Micheál Butler</div>
 </div>
