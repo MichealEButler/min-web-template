@@ -3,8 +3,8 @@ layout: splash
 permalink: /
 hidden: true
 header:
-    overlay_filter: "0.6"
-    overlay_image: /assets/images/looking_up_web_image_2.jpg
+    overlay_filter: "0.5"
+    overlay_image: /assets/images/looking_up_web_image_3.jpg
 feature_row:
   - image_path: /assets/images/map_viewer_stock_2.jpg
     title: "Map Viewer"
