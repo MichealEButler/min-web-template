@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Maps"
-    url: https://michealebutler.github.io/LU-WebViewer/
+    url: /https://michealebutler.github.io/LU-WebViewer/
   - title: "Documentation"
     url: /documentation/
   - title: "Downloads"
