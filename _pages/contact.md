@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: " "
 permalink: /contact/
 layout: archive
 author_profile: false
