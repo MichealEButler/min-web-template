@@ -9,7 +9,7 @@ feature_row:
   - image_path: /assets/images/map_viewer_stock_2.jpg
     title: "Map Viewer"
     excerpt: "You will find a number of 'prediction' map layers here, that you can **view**, **edit**, and **download**."
-    url: "https://michealebutler.github.io/LU-WebViewer/"
+    url: "https://michealebutler.github.io/WebViewer-LU/"
     btn_label: "Open Viewer"
     btn_class: "btn--primary"
   - image_path: /assets/images/documents_stock_2.jpg
